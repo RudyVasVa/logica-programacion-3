@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #f34d84;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: #e671e0;
+}
+
+input[type="button"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #c05a96;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+input[type="button"]:hover {
+    background-color: #0056b3;
+}
+
+#resultadoCalculo {
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(235, 69, 133);
+    
+}
+h6 {
+    color: chocolate;
+}
